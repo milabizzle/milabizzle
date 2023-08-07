@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/-spring-rgba(0, 0, 79, 1)?style=for-the-badge&logo=spring&logoColor=rgba(0, 255, 255, 0.7)" target="_blank">
 <img src="https://img.shields.io/badge/-html-rgba(0, 0, 79, 1)?style=for-the-badge&logo=HTML5&logoColor=rgba(0, 255, 255, 0.7)" target="_blank">
 <img src="https://img.shields.io/badge/-css-rgba(0, 0, 79, 1)?style=for-the-badge&logo=CSS3&logoColor=rgba(0, 255, 255, 0.7)" target="_blank">
+<br> 
 <img src="https://img.shields.io/badge/-Javascript-rgba(0, 0, 79, 1)?style=for-the-badge&logo=javascript&logoColor=rgba(0, 255, 255, 0.7)" target="_blank">
 <img src="https://img.shields.io/badge/-nodejs-rgba(0, 0, 79, 1)?style=for-the-badge&logo=node.js&logoColor=rgba(0, 255, 255, 0.7)" target="_blank">
 <img src="https://img.shields.io/badge/-Typescript-rgba(0, 0, 79, 1)?style=for-the-badge&logo=typescript&logoColor=rgba(0, 255, 255, 0.7)" target="_blank">
