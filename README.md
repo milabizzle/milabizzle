@@ -4,9 +4,9 @@
 <h3>About me:</h3>
 
 - 👋 Welcome to my github!
-- 📚 Student on <a href="https://brazil.generation.org/">Generation Brasil</a>
+- 📚 Alumini <a href="https://brazil.generation.org/">Generation Brasil</a>
 - 🎓 Degree in Performing Arts and Interior Design 🎭🎨
-- 🌱 I’m currently learning Java and TypeScript
+- 🌱 I’m currently learning Java, AWS and Database
 - 💞️ I love arts and Karate 🥋
 - 📫 Reach me: parcerias.cr@gmail.com
 
