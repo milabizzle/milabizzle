@@ -5,9 +5,9 @@
 
 - 👋 Welcome to my github!
 - 📚 Alumni <a href="https://brazil.generation.org/">Generation Brasil</a>
-- 🎓 Degree in Performing Arts and Interior Design 🎭🎨
+- 🎓 Degree in Anthropology, Performing Arts and Interior Design 🎭🎨
 - 🌱 I’m currently learning Java, AWS and Database
-- 💞️ I love arts and Karate 🥋
+- 💞️ I love learning from life 🥋
 - 📫 Reach me: parcerias.cr@gmail.com
 
 <details>
