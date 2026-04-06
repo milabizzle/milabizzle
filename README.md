@@ -7,7 +7,7 @@
 - 📚 Alumni <a href="https://brazil.generation.org/">Generation Brasil</a>
 - 🎓 Degree in Anthropology, Performing Arts and Interior Design 🎭🎨
 - 🌱 I’m currently learning Java, AWS and Database
-- 💞️ I love learning from life 🥋
+- 💞️ I love learning from life 
 - 📫 Reach me: parcerias.cr@gmail.com
 
 <details>
@@ -32,7 +32,7 @@
   <br><br>
 
   <a href="https://github.com/milabizzle">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milabizzle&hide=issues&show_icons=true&count_private=true&include_all_commits=true&theme=gotham" alt="GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milabizzle&layout=compact&langs_count=7&theme=gotham" alt="Top Languages">
-  </a>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milabizzle&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=gotham&hide=issues" alt="GitHub Stats">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milabizzle&layout=compact&langs_count=7&theme=gotham&hide_forks=true" alt="Top Languages">
+</a>
