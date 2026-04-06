@@ -14,24 +14,25 @@
   <summary><h3>Technical Info</h3></summary>
 
 <div align="center">
-<h3>Languages and tools</h3>
+  <h3>Languages and tools</h3>
   
-<img src="https://img.shields.io/badge/-java-rgba(0, 0, 79, 1)?style=for-the-badge&logo=java&logoColor=rgba(0, 255, 255, 0.7)" target="_blank">
-<img src="https://img.shields.io/badge/-mysql-rgba(0, 0, 79, 1)?style=for-the-badge&logo=mysql&logoColor=rgba(0, 255, 255, 0.7)" target="_blank">
-<img src="https://img.shields.io/badge/-spring-rgba(0, 0, 79, 1)?style=for-the-badge&logo=spring&logoColor=rgba(0, 255, 255, 0.7)" target="_blank">
-<img src="https://img.shields.io/badge/-html-rgba(0, 0, 79, 1)?style=for-the-badge&logo=HTML5&logoColor=rgba(0, 255, 255, 0.7)" target="_blank">
-<img src="https://img.shields.io/badge/-css-rgba(0, 0, 79, 1)?style=for-the-badge&logo=CSS3&logoColor=rgba(0, 255, 255, 0.7)" target="_blank">
-<br> 
-<img src="https://img.shields.io/badge/-Javascript-rgba(0, 0, 79, 1)?style=for-the-badge&logo=javascript&logoColor=rgba(0, 255, 255, 0.7)" target="_blank">
-<img src="https://img.shields.io/badge/-nodejs-rgba(0, 0, 79, 1)?style=for-the-badge&logo=node.js&logoColor=rgba(0, 255, 255, 0.7)" target="_blank">
-<img src="https://img.shields.io/badge/-Typescript-rgba(0, 0, 79, 1)?style=for-the-badge&logo=typescript&logoColor=rgba(0, 255, 255, 0.7)" target="_blank">
-<img src="https://img.shields.io/badge/-react-rgba(0, 0, 79, 1)?style=for-the-badge&logo=React&logoColor=rgba(0, 255, 255, 0.7)" target="_blank">
-<br>
-<br>
-<a href="https://github.com/milabizzle">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=milabizzle&hide=issues&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=gotham">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milabizzle&layout=compact&langs_count=7&theme=gotham"/>
-</a>
-</div>
-  </details>
+  <img src="https://img.shields.io/badge/Java-00004F?style=for-the-badge&logo=java&logoColor=00FFFF" alt="Java">
+  <img src="https://img.shields.io/badge/MySQL-00004F?style=for-the-badge&logo=mysql&logoColor=00FFFF" alt="MySQL">
+  <img src="https://img.shields.io/badge/Spring-00004F?style=for-the-badge&logo=spring&logoColor=00FFFF" alt="Spring">
+  <img src="https://img.shields.io/badge/HTML5-00004F?style=for-the-badge&logo=html5&logoColor=00FFFF" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-00004F?style=for-the-badge&logo=css3&logoColor=00FFFF" alt="CSS3">
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/JavaScript-00004F?style=for-the-badge&logo=javascript&logoColor=00FFFF" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-00004F?style=for-the-badge&logo=nodedotjs&logoColor=00FFFF" alt="NodeJS">
+  <img src="https://img.shields.io/badge/TypeScript-00004F?style=for-the-badge&logo=typescript&logoColor=00FFFF" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-00004F?style=for-the-badge&logo=react&logoColor=00FFFF" alt="React">
+
+  <br><br>
+
+  <a href="https://github.com/milabizzle">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milabizzle&hide=issues&show_icons=true&count_private=true&include_all_commits=true&theme=gotham" alt="GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milabizzle&layout=compact&langs_count=7&theme=gotham" alt="Top Languages">
+  </a>
 </div>
