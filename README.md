@@ -36,6 +36,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=milabizzle&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milabizzle&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milabizzle&layout=compact&langs_count=7&theme=gotham&hide_forks=true" alt="Top Languages">
-</a>
+  ## 🌐 Networks
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/milabizzle) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilanascimneto23/) 
+[![Gmail](https://img.shields.io/badge/Gmail-<COLOR>)](mailto:parcerias.cr@gmail.com)
